@@ -1,0 +1,31 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                   Ypct   R-squared:                       0.056
+Model:                            OLS   Adj. R-squared:                  0.052
+Method:                 Least Squares   F-statistic:                     12.83
+Date:                Tue, 25 Aug 2026   Prob (F-statistic):           3.88e-12
+Time:                        11:53:07   Log-Likelihood:                -2809.8
+No. Observations:                1081   AIC:                             5632.
+Df Residuals:                    1075   BIC:                             5661.
+Df Model:                           5                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+Intercept      3.8707      7.535      0.514      0.608     -10.915      18.656
+week          -0.6467      0.330     -1.962      0.050      -1.294    1.65e-05
+week2          0.0118      0.007      1.785      0.075      -0.001       0.025
+孕妇BMI          0.6853      0.393      1.742      0.082      -0.087       1.457
+BMI2          -0.0160      0.006     -2.764      0.006      -0.027      -0.005
+week_BMI       0.0108      0.008      1.340      0.181      -0.005       0.027
+==============================================================================
+Omnibus:                       87.252   Durbin-Watson:                   0.826
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):              119.851
+Skew:                           0.651   Prob(JB):                     9.43e-27
+Kurtosis:                       3.982   Cond. No.                     9.46e+04
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 9.46e+04. This might indicate that there are
+strong multicollinearity or other numerical problems.

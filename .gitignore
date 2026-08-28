@@ -1,0 +1,21 @@
+.DS_Store
+**/.DS_Store
+
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Generated audit/runtime files
+tmp/
+**/tmp/
+
+# Local editor files
+.idea/
+.vscode/
+*.swp
+*~
+
