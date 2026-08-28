@@ -1,0 +1,13 @@
+<frozen site>:101: RuntimeWarning: Unexpected value in sys.prefix, expected /Users/lzt778899/Library/Application Support/@mathmodel/desktop/workspace/.venv, got /Users/lzt778899/Library/Application Support/@mathmodel/desktop/workspace/2024C-Crops/../.venv
+<frozen site>:101: RuntimeWarning: Unexpected value in sys.exec_prefix, expected /Users/lzt778899/Library/Application Support/@mathmodel/desktop/workspace/.venv, got /Users/lzt778899/Library/Application Support/@mathmodel/desktop/workspace/2024C-Crops/../.venv
+[q2] λ=0.0 变量=11728 约束=16818 二元=6762 情景=15
+  [热启动] 来自 q1_1 方案 (559 个地块种植)
+  [q2] λ=0.0 求解 3s, 目标=40,417,947, E=40,417,947, 最差=40,189,355, CVaR=1,000,000,000, 亏损概率=0.000
+[q2] λ=0.3 变量=11728 约束=16818 二元=6762 情景=15
+  [热启动] 来自 q1_1 方案 (559 个地块种植)
+  [q2] λ=0.3 求解 3s, 目标=52,538,636, E=40,417,947, 最差=40,189,355, CVaR=-40,402,298, 亏损概率=0.000
+[q2] λ=0.8 变量=11728 约束=16818 二元=6762 情景=15
+  [热启动] 来自 q1_1 方案 (559 个地块种植)
+  [q2] λ=0.8 求解 3s, 目标=72,739,785, E=40,417,947, 最差=40,189,355, CVaR=-40,402,298, 亏损概率=0.000
+已写入 result2.xlsx
+[result2] 已用 λ=0.3 方案写入 result2.xlsx

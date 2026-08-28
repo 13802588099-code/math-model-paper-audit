@@ -1,0 +1,30 @@
+<frozen site>:101: RuntimeWarning: Unexpected value in sys.prefix, expected /Users/lzt778899/Library/Application Support/@mathmodel/desktop/workspace/.venv, got /Users/lzt778899/Library/Application Support/@mathmodel/desktop/workspace/2024C-Crops/../.venv
+<frozen site>:101: RuntimeWarning: Unexpected value in sys.exec_prefix, expected /Users/lzt778899/Library/Application Support/@mathmodel/desktop/workspace/.venv, got /Users/lzt778899/Library/Application Support/@mathmodel/desktop/workspace/2024C-Crops/../.venv
+[MILP] 超时/中止, 采用当前可行解, 目标=39,882,308, gap=0.017269988270613774
+[q1_1] 求解时间 900.2s, 目标(总收益) = 39,882,308 元, gap=0.017269988270613774
+已写入 result1_1.xlsx
+  [校验] q1_1: 86项违规
+   - 2024年 作物黄心菜 第一季 产量3600斤 超销售上限1800斤 (+100.0%)
+   - 2024年 作物油麦菜 第一季 产量6000斤 超销售上限4500斤 (+33.3%)
+   - 2024年 作物包菜 第一季 产量5400斤 超销售上限4050斤 (+33.3%)
+   - 2024年 作物菜花 第一季 产量4800斤 超销售上限3600斤 (+33.3%)
+   - 2024年 作物生菜 第一季 产量3000斤 超销售上限1500斤 (+100.0%)
+   - 2024年 作物空心菜 第一季 产量7200斤 超销售上限3600斤 (+100.0%)
+   - 2024年 作物黄瓜 第二季 产量8100斤 超销售上限4050斤 (+100.0%)
+   - 2024年 作物芹菜 第二季 产量3600斤 超销售上限1800斤 (+100.0%)
+   - 2024年 作物生菜 第二季 产量2700斤 超销售上限1350斤 (+100.0%)
+   - 2024年 作物茄子 第二季 产量4320斤 超销售上限2160斤 (+100.0%)
+HighsMipSolverData::transformNewIntegerFeasibleSolution tmpSolver.run();
+HighsMipSolverData::transformNewIntegerFeasibleSolution tmpSolver.run();
+HighsMipSolverData::transformNewIntegerFeasibleSolution tmpSolver.run();
+HighsMipSolverData::transformNewIntegerFeasibleSolution tmpSolver.run();
+HighsMipSolverData::transformNewIntegerFeasibleSolution tmpSolver.run();
+HighsMipSolverData::transformNewIntegerFeasibleSolution tmpSolver.run();
+HighsMipSolverData::transformNewIntegerFeasibleSolution tmpSolver.run();
+HighsMipSolverData::transformNewIntegerFeasibleSolution tmpSolver.run();
+HighsMipSolverData::transformNewIntegerFeasibleSolution tmpSolver.run();
+HighsMipSolverData::transformNewIntegerFeasibleSolution tmpSolver.run();
+HighsMipSolverData::transformNewIntegerFeasibleSolution tmpSolver.run();
+HighsMipSolverData::transformNewIntegerFeasibleSolution tmpSolver.run();
+HighsMipSolverData::transformNewIntegerFeasibleSolution tmpSolver.run();
+HighsMipSolverData::transformNewIntegerFeasibleSolution tmpSolver.run();

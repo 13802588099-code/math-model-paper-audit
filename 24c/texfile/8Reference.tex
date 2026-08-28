@@ -1,0 +1,9 @@
+\newpage
+\phantomsection
+\addcontentsline{toc}{section}{参考文献}
+% 参考文献必须真实：book.bib 中的条目一律用 paper-search Skill 生成——
+% 先 search 检索候选，再 verify 按 DOI 核对元数据，最后
+% `python scripts/paper_search.py bib --doi <DOI> --key <引用key> >> book.bib`。
+% 禁止凭记忆手写或编造题名、作者、期刊、卷期页；核验不了的文献宁可不引。
+\bibliographystyle{gbt7714-numerical}
+\bibliography{book}

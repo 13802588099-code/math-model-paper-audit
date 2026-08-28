@@ -1,0 +1,15 @@
+<frozen site>:101: RuntimeWarning: Unexpected value in sys.prefix, expected /Users/lzt778899/Library/Application Support/@mathmodel/desktop/workspace/.venv, got /Users/lzt778899/Library/Application Support/@mathmodel/desktop/workspace/2024C-Crops/../.venv
+<frozen site>:101: RuntimeWarning: Unexpected value in sys.exec_prefix, expected /Users/lzt778899/Library/Application Support/@mathmodel/desktop/workspace/.venv, got /Users/lzt778899/Library/Application Support/@mathmodel/desktop/workspace/2024C-Crops/../.venv
+[q2] λ=0.0 变量=11728 约束=16818 二元=6762 情景=15
+  [热启动] 来自 q1_1 方案 (559 个地块种植)
+  [q2] λ=0.0 求解 2s, 目标=40,417,947, E=40,417,947, 最差=40,189,355, CVaR=0, 亏损概率=0.000
+Traceback (most recent call last):
+  File "/Users/lzt778899/Library/Application Support/@mathmodel/desktop/workspace/2024C-Crops/code/solve_stoch_hs.py", line 149, in <module>
+    r = solve_stoch(sales_mult, yield_mult, price, lam, OUT_TAG, TL, GAP, seed)
+  File "/Users/lzt778899/Library/Application Support/@mathmodel/desktop/workspace/2024C-Crops/code/solve_stoch_hs.py", line 129, in solve_stoch
+    plant, area = m.plan()
+                  ~~~~~~^^
+  File "/Users/lzt778899/Library/Application Support/@mathmodel/desktop/workspace/2024C-Crops/code/milp_model.py", line 265, in plan
+    if self.x is None:
+       ^^^^^^
+AttributeError: 'PlantingMILP' object has no attribute 'x'

@@ -1,0 +1,15 @@
+<frozen site>:101: RuntimeWarning: Unexpected value in sys.prefix, expected /Users/lzt778899/Library/Application Support/@mathmodel/desktop/workspace/.venv, got /Users/lzt778899/Library/Application Support/@mathmodel/desktop/workspace/2024C-Crops/../.venv
+<frozen site>:101: RuntimeWarning: Unexpected value in sys.exec_prefix, expected /Users/lzt778899/Library/Application Support/@mathmodel/desktop/workspace/.venv, got /Users/lzt778899/Library/Application Support/@mathmodel/desktop/workspace/2024C-Crops/../.venv
+[q1_2] 求解时间 134.8s, 目标(总收益) = 59,179,667 元, gap=0.008311565344599883
+已写入 result1_2.xlsx
+  [校验] q1_2: 63项违规
+   - 2024年 作物红薯 第一季 产量121000斤 超销售上限36000斤 (+236.1%)
+   - 2024年 作物黑豆 第一季 产量40850斤 超销售上限21850斤 (+87.0%)
+   - 2024年 作物荞麦 第一季 产量9920斤 超销售上限1500斤 (+561.3%)
+   - 2024年 作物南瓜 第一季 产量57000斤 超销售上限35100斤 (+62.4%)
+   - 2024年 作物黄瓜 第一季 产量1269000斤 超销售上限9000斤 (+14000.0%)
+   - 2024年 作物白萝卜 第二季 产量268000斤 超销售上限100000斤 (+168.0%)
+   - 2024年 作物榆黄菇 第二季 产量39000斤 超销售上限9000斤 (+333.3%)
+   - 2024年 作物黄瓜 第二季 产量24300斤 超销售上限4050斤 (+500.0%)
+   - 2024年 作物茄子 第二季 产量4320斤 超销售上限2160斤 (+100.0%)
+   - 2025年 作物黑豆 第一季 产量126875斤 超销售上限21850斤 (+480.7%)

@@ -1,0 +1,10 @@
+[MILP] 超时/中止, 采用当前可行解, 目标=41,036,890, gap=0.014494798619550907
+[q1_1] 求解时间 900.1s, 目标(总收益) = 41,036,890 元, gap=N/A
+  失败原因: Time limit reached. (HiGHS Status 13: Time limit reached)
+Traceback (most recent call last):
+  File "/Users/lzt778899/Library/Application Support/@mathmodel/desktop/workspace/2024C-Crops/code/solve_q1.py", line 55, in <module>
+    from validate_plan import validate
+    ^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: cannot unpack non-iterable NoneType object
+HighsMipSolverData::transformNewIntegerFeasibleSolution tmpSolver.run();
+HighsMipSolverData::transformNewIntegerFeasibleSolution tmpSolver.run();

@@ -1,0 +1,2 @@
+<frozen site>:101: RuntimeWarning: Unexpected value in sys.prefix, expected /Users/lzt778899/Library/Application Support/@mathmodel/desktop/workspace/.venv, got /Users/lzt778899/Library/Application Support/@mathmodel/desktop/workspace/2024C-Crops/../.venv
+<frozen site>:101: RuntimeWarning: Unexpected value in sys.exec_prefix, expected /Users/lzt778899/Library/Application Support/@mathmodel/desktop/workspace/.venv, got /Users/lzt778899/Library/Application Support/@mathmodel/desktop/workspace/2024C-Crops/../.venv
